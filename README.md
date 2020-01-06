@@ -6,18 +6,19 @@ Hello, my name is lfn or BlueJ. I am a beginner level Java programmer still in t
 I have beeen part of the minecraft community for 7+ years, starting on the Xbox 360. Little did I know this was the beginning of a development career of my own. I have been server managing for about 4+ years, learning the ins and outs of server managment. Over that time span I have been able to learn Java through tutorials and self teaching. Though it was a rocky start and switching between games and languages, I have set my desired language to Java. Learning SpigotAPI aswell as SQLite databases, I have been able to start a new desired career.
 
 ## Skill Set
-**Java**: Comfortable
-**C#**: Beginner
-**C++**: Beginner
-**SpigotAPI**: Comfortable
-**SQLite**: Moderatly Comfortable
+- **Java**: Comfortable
+- **C#**: Beginner
+- **C++**: Beginner
+- **SpigotAPI**: Comfortable
+- **SQLite**: Moderatly Comfortable
 
 ## Contact Me
 Have any suggestions, ideas or questions? Contact me via;
-**Email:** bluej2676@gmail.com
-**Discord:** BlueJ#3533
-**Reddit:** r/BlueJ1222
-**Minecraft IGN:** lfn
+- **Email**: bluej2676@gmail.com
+- **Discord**: BlueJ#3533
+- **Reddit:**: r/BlueJ1222
+- **Minecraft IGN**: lfn
 
-
-
+`if(reader.equals(you)) {`
+`  reader.sendMessage("Have a wonderful day!);"
+}`
