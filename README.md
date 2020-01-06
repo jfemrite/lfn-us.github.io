@@ -10,7 +10,7 @@ I have beeen part of the minecraft community for 7+ years, starting on the Xbox 
 - **C#**: Beginner
 - **C++**: Beginner
 - **SpigotAPI**: Comfortable
-- **SQLite**: Moderatly Comfortable
+- **SQLite**: Moderately Comfortable
 
 ## Contact Me
 Have any suggestions, ideas or questions? Contact me via;
