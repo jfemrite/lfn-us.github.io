@@ -19,6 +19,6 @@ Have any suggestions, ideas or questions? Contact me via;
 - **Reddit:**: r/BlueJ1222
 - **Minecraft IGN**: lfn
 
-`if(reader.equals(you)) {`
-`  reader.sendMessage("Have a wonderful day!);"
-}`
+-`if(reader.equals(you)) {`
+-`  reader.sendMessage("Have a wonderful day!);"'
+-'}`
