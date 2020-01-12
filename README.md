@@ -1,4 +1,4 @@
-# LFN Personal Developer Portfolio
+# BlueJ Personal Developer Portfolio
 
 Hello, my name is lfn or BlueJ. I am a beginner level Java programmer still in the works. Currently, I am a plugin creator for SpigotMC and am wishing to expand my knowledge to other Minecraft related API. Minecraft has been a big part of the gaming industry and for programmers world wide. Me learning Java has been an experience and a half, and since I was 12, it's been a dream of mine to take part in the developer world that is today. I am confident that I will be able to bring customers their desired custom plugin with in a reasonable amount of time at an affordable cost.
 
