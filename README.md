@@ -14,6 +14,8 @@ I have beeen part of the minecraft community for 7+ years, starting on the Xbox 
 - **NMS**: _Modereratly Comfortable_
 
 ## Reviews
+>"I asked for a simple plugin, but he went above and beyond to deliver the best quality plugin! Communication was good and fast too."
+> - Technicjelle
 
 
 ## Contact Me
